@@ -9,7 +9,7 @@ const stranka0 = new Stranka(
   "Vítej ve světě plném neonových světel a temných stínů. Tento interaktivní NeonPunk2070 ti umožní stát se Ryuem, hackerem na volné noze v Hong Kongu roku 2070. Držíš v rukou svůj osud. Každé rozhodnutí, které uděláš, změní směr příběhu. Život v tomto městě je tvrdý a ovládají ho megakorporace. Ty, jako Ryu, jsi zvyklý přežívat. Jsi zvyklý na to, že musíš porušovat pravidla, aby sis zajistil obživu. Ale dnes, když se setkáš s neznámou ženou jménem Mei, začneš chápat, že ve hře je mnohem víc. Tvoje rozhodnutí ovlivní nejen tvůj vlastní osud, ale i budoucnost celého světa. Svět roku 2070 je krutý a nelítostný. Jsi připraven čelit výzvám, které tě čekají?",
   null, null,
   { dalsiStranka: 1 },  // Číst dále
-  "images/cyberpunk-city.gif",
+  "https://hkst21.github.io/NEONPNK/images/cyberpunk-city.gif",
   null
 );
 
