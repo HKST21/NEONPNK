@@ -72,6 +72,10 @@ button {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 button:hover {
     background-color: #00ff00;
