@@ -19,7 +19,7 @@ const stranka1 = new Stranka(
   "Neonové světlo pronikalo skrz hustý smog, když jsem se probíral ulicemi Hong Kongu roku 2070. Jmenuji se Ryu a jsem hacker na volné noze. Život ve městě ovládaném megakorporacemi není snadný, ale vždycky jsem si našel způsob, jak přežít. Všechno se změnilo ten večer, kdy jsem narazil na tajemnou ženu jménem Mei v jednom z nelegálních kyber-barů. Její oči zářily neobvyklým odstínem modré - určitě implantáty. Ale bylo na ní něco víc, něco, co mě okamžitě přitahovalo. 'Slyšela jsem, že jsi nejlepší hacker ve městě,' řekla bez okolků. 'Potřebuji se dostat do systémů Nexus Corp. Zaplatím dobře.' Věděl jsem, že je to nebezpečné. Nexus Corp byla jedna z nejmocnějších korporací na světě. Ale nemohl jsem odolat výzvě - ani té ženě. 'Jsem v tom,' odpověděl jsem...",
   null, null,
   { dalsiStranka: 2 },  // Číst dále
-  "images/neonDragon.jpg",
+  "NEONPNK/images/neonDragon.jpg",
   null
 );
 
@@ -29,7 +29,7 @@ const stranka2 = new Stranka(
   "'Je mi to líto, Ryu,' řekla, když namířila zbraň na mou hlavu. 'Ale nemůžu tě nechat, abys tohle prozradil.' V tom okamžiku se rozezněly poplašné systémy. Bezpečnostní jednotky Nexus Corp vtrhly do místnosti. V nastalém chaosu jsem využil příležitosti a utekl, moje mysl se točila zradou a odhalením. Teď jsem na útěku, skrývám se v temných zákoutích Hong Kongu. Mám informace, které by mohly svrhnout Nexus Corp a možná i celý systém. Ale vím, že Mei je stále tam venku, stejně jako nespočet dalších nepřátel. Každý den je bojem o přežití. Každá noc je naplněna sny o Mei a o tom, co mohlo být. Ale nemohu se vzdát. Příliš toho visí na vlásku...",
   null, null,
   { dalsiStranka: 3 },  // Číst dále
-  "images/neonGirl.jpg",
+  "NEONPNK/images/neonGirl.jpg",
   null
 );
 
@@ -200,7 +200,7 @@ let stranka14 = new Stranka(
     null,
     null,
     { dalsiStranka: 15 },
-    "images/HKcity.gif",
+    "NEONPNK/images/HKcity.gif",
     null
 );
 
@@ -251,7 +251,7 @@ let stranka18 = new Stranka(
     null,
     null,
     { dalsiStranka: 19 },
-    "images/copters.gif",
+    "NEONPNK/images/copters.gif",
     null
 );
 let stranka19 = new Stranka(
@@ -404,7 +404,7 @@ let stranka30 = new Stranka(
     { text: "Konec - Příběh pokračuje v dalším gamebooku!", dalsiStranka: null },
     null,
     null,
-    "images/lambo.gif",
+    "NEONPNK/images/lambo.gif",
     null
 );
 
@@ -418,7 +418,7 @@ let stranka31 = new Stranka(
     { text: "Konec - Příběh pokračuje v dalším gamebooku!", dalsiStranka: null },
     null,
     null,
-    "images/lambo.gif",
+    "NEONPNK/images/lambo.gif",
     null
 );
 
